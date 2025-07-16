@@ -1,4 +1,6 @@
 calculus kitabı
  not: mühendis adayları bu dersi öğrenmeli.
  1- fonksiyonlar
+ fonksiyonlar calculusun temelir, bu konuyu öğrenmeden diğer konulara geçmeyiniz.
  
+
