@@ -1,0 +1,5 @@
+geometri kitabı
+not: bu geometri kitabı mühendis öğrencileri için zorunlu değildir ama öğrenirse iyi olur.
+1 - üçgenler 
+geometri için üçgenler temel bir konudur.
+
