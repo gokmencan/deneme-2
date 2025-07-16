@@ -1,2 +1,4 @@
 calculus kitabı
-mühendisler bu dersi öğrenmeli.
+ not: mühendis adayları bu dersi öğrenmeli.
+ 1- fonksiyonlar
+ 
