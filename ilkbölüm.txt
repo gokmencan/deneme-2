@@ -2,5 +2,10 @@ calculus kitabı
  not: mühendis adayları bu dersi öğrenmeli.
  1- fonksiyonlar
  fonksiyonlar calculusun temelir, bu konuyu öğrenmeden diğer konulara geçmeyiniz.
+ 2 - limit
+ sağlam bir fonk temelinden sonra limite giriş yapılabilir.
+ 3 - türev
+ limti anladıktan sonra türeve adım atılabilir.
+ 
  
 
