@@ -2,5 +2,10 @@ geometri kitabı
 not: bu geometri kitabı mühendis öğrencileri için zorunlu değildir ama öğrenirse iyi olur.
 1 - üçgenler 
 geometri için üçgenler temel bir konudur.
-2 - dörtgenlerd,r.
+
+2 - dörtgenler ve çokgenler
+=======
+2 - dörtgenler ve çokgenler
+3- çember
+
 
